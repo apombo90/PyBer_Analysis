@@ -9,3 +9,5 @@ Analysis done for a ride-sharing app (Pyber) to analyze all the rideshare data f
 - Data source: ride_data.csv, city_data.csv
 - Software: Python 3.7.10, Jupyter Notebook
 ## Results
+
+![image](https://user-images.githubusercontent.com/91766276/144371489-92616fa1-2081-4ded-9eb6-6caaeba8a027.png)
